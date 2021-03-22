@@ -9,7 +9,7 @@ public class Case004 {
 		CalculatorPage calculator = new CalculatorPage();
 		String[] testList1 = {"12"};
 		String[] testList2 = {""};
-		calculator.ingresoNumeros(testList1, "mult");
+		calculator.ingresoNumeros(testList1, "div");
 		calculator.ingresoNumeros(testList2, "coma");
 		calculator.resultado();
 	}
