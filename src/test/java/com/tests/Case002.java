@@ -10,7 +10,7 @@ public class Case002 {
 		String[] testList1 = {"5"};
 		String[] testList2 = {"7"};
 		calculator.ingresoNumeros(testList1, "suma");
-		calculator.ingresoNumeros(testList2, "suma");
+		calculator.ingresoNumeros(testList2, "");
 		calculator.resultado();
 	}
 }

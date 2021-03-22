@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="37151" started-at="2021-03-22T21:10:53Z" finished-at="2021-03-22T21:11:30Z">
+  <suite name="Default suite" duration-ms="18789" started-at="2021-03-22T21:35:25Z" finished-at="2021-03-22T21:35:44Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="37151" started-at="2021-03-22T21:10:53Z" finished-at="2021-03-22T21:11:30Z">
-      <class name="com.tests.Case005">
-        <test-method status="PASS" signature="SucecionOperaciones()[pri:0, instance:com.tests.Case005@a38d7a3]" name="SucecionOperaciones" duration-ms="37110" started-at="2021-03-22T21:10:53Z" description="Sucesión de varias operaciones matemáticas " finished-at="2021-03-22T21:11:30Z">
+    <test name="Default test" duration-ms="18789" started-at="2021-03-22T21:35:25Z" finished-at="2021-03-22T21:35:44Z">
+      <class name="com.tests.Case004">
+        <test-method status="PASS" signature="DivisiónPorComa()[pri:0, instance:com.tests.Case004@a38d7a3]" name="DivisiónPorComa" duration-ms="18732" started-at="2021-03-22T21:35:25Z" description="División de un número por una coma" finished-at="2021-03-22T21:35:44Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- SucecionOperaciones -->
-      </class> <!-- com.tests.Case005 -->
+        </test-method> <!-- DivisiónPorComa -->
+      </class> <!-- com.tests.Case004 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

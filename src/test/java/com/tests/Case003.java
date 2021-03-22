@@ -14,7 +14,7 @@ public class Case003 {
 		calculator.ingresoNumeros(testList1, "mult");
 		calculator.ingresoNumeros(testList2, "mult");
 		calculator.ingresoNumeros(testList3, "mult");
-		calculator.ingresoNumeros(testList4, "mult");
+		calculator.ingresoNumeros(testList4, "");
 		calculator.resultado();
 	}
 }
